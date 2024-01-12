@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.one{
+    background-color: #2C3338;
+    color: white;
+    height: 52px;
+}
+
+.info{
+    display: block;
+    margin-left: 100px;
+    padding-top: 12px;
+    font-size: small;
+    font-family: "Prompt", Sans-serif;
+    color: #EBEBEB;
+}
+
+.f a{
+    display: block;
+    margin-left: 430px;
+    padding-top: 13px;
+    text-decoration: none;
+    border: 1px solid #2C3338;
+    border-radius: 100%;
+    width: 5px;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'klavika', 'Helvetica Neue', sans-serif;
+    color: #EBEBEB;
+}
+
+.in a{
+    display: block;
+    margin-left: 25px;
+    padding-top: 18px;
+    border: 1px solid #2C3338;
+    border-radius: 100%;
+    width: 5px;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: "Prompt", Sans-serif;
+    text-decoration: none;
+    color: #EBEBEB;
+}
+
+table tr .a{
+    display: block;
+    font-size: 11.5px;
+    font-family: "Prompt", Sans-serif;
+    margin-left: 340px;
+    color: #EBEBEB;
+}
+
+.two tr td img{
+    width: 150px;
+    height: 65px;
+    margin-left: 100px;
+    margin-top: 8px;
+}
+
+td .g{
+    display: inline;
+    text-decoration: none;
+    font-family: "Prompt", Sans-serif;
+    font-style: inherit;
+    font-size: 16px;
+    margin-left: 166px;
+    width: 320px;
+    height: 21px;
+    color: #2C3338;
+    background-color: #CB9A2C;
+    border-radius: 5px;
+    padding: 6px 10px 6px 10px;
+}
+
+td .b{
+    text-decoration: none;
+    font-family: "Prompt", Sans-serif;
+    font-style: inherit;
+    font-size: 16px;
+    width: 320px;
+    height: 21px;
+    background-color: #CB9A2C;
+    color: #2C3338;
+    border-radius: 5px;
+    padding: 6px 10px 6px 10px;
+}
+
+td .c{
+    text-decoration: none;
+    font-family: "Prompt", Sans-serif;
+    font-style: inherit;
+    font-size: 16px;
+    width: 320px;
+    height: 21px;
+    background-color: #CB9A2C;
+    color: #2C3338;
+    border-radius: 5px;
+    padding: 6px 10px 6px 10px;
+}
+
+td .d{
+    text-decoration: none;
+    font-family: "Prompt", Sans-serif;
+    font-style: inherit;
+    font-size: 16px;
+    width: 320px;
+    height: 21px;
+    background-color: #CB9A2C;
+    color: #2C3338;
+    border-radius: 5px;
+    padding: 6px 10px 6px 10px;
+}
+
+td .e{
+    text-decoration: none;
+    font-family: "Prompt", Sans-serif;
+    font-style: inherit;
+    font-size: 16px;
+    width: 320px;
+    height: 21px;
+    background-color: #CB9A2C;
+    color: #2C3338;
+    border-radius: 5px;
+    padding: 6px 10px 6px 10px;
+}
+
+td .f{
+    text-decoration: none;
+    font-family: "Prompt", Sans-serif;
+    font-size: 16px;
+    font-style: inherit;
+    width: 320px;
+    height: 21px;
+    background-color: #CB9A2C;
+    color: #2C3338;
+    border-radius: 5px;
+    padding: 6px 10px 6px 10px;
+}
+
+.ok{
+    display: block;
+    box-shadow: rgba(0, 0, 0, 0.35) 4px 4px 10px 0px;
+    font-weight: 400;
+    font-size: large;
+    height: 6px;
+    width: 48.50px;
+    margin-top: 16px;
+    margin-left: 230px;
+    padding: 15px 30px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #00115E;
+    color: #fff;
+}
+
+.three tr td{
+    display: block;
+    margin-top: 125px;
+    margin-left: 115px;
+    letter-spacing: 0.6px;
+    font-size: 13.6px;
+    font-family: "Prompt", Sans-serif;
+    font-weight: 400;
+    color: #2C3338;
+}
+
+.four table tr td{
+    display: block;
+    margin-left: 115px;
+    font-size: 42px;
+    font-weight: 400;
+    font-family: "Prompt", Sans-serif;
+    color: #2C3338;
+}
+
+.second{ 
+    display: block; 
+    margin-left: 115px; 
+    letter-spacing: 0.6px; 
+    line-height: 25px; 
+    font-size: 13.6px; 
+    font-family: "Prompt", Sans-serif; 
+    font-weight: 400;
+    color: #2C3338;
+}
